@@ -45,5 +45,8 @@
     body.guides code, body.blog code, body.api code {
             color: #fff;
     }
-    
+
+    body.guides p, body.blog p, body.api p  {
+            color: #aaa;
+    }
 }
